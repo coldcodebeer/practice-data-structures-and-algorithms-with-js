@@ -28,7 +28,7 @@
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)
- - [297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+ - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 ##### 引用
 - [手把手带你刷二叉树（第二期）](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/er-cha-shu-xi-lie-2)
 - [东哥手把手带你刷二叉树（第三期）](https://www.cnblogs.com/labuladong/p/13975082.html)
@@ -55,7 +55,14 @@
 - [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
 ---
 #### DP
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+  - [Max Contiguous Subarray Sum - Cubic Time To Kadane's Algorithm ("Maximum Subarray" on LeetCode)](https://www.youtube.com/watch?v=2MmGzdiKR9Y&ab_channel=BackToBackSWE)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
+- [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+- [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+- [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+- [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 - **[322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)**
   - [The Change Making Problem - Fewest Coins To Make Change Dynamic Programming](https://www.youtube.com/watch?v=jgiZlGzXMBw&ab_channel=BackToBackSWE)
 - [416. 分割等和子集
@@ -71,12 +78,11 @@
 - [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 - [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 ---
-#### N Sum
-- [1. 两数之和](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 - **[15. 三数之和](https://leetcode-cn.com/problems/3sum/)**
 - [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
----
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - **[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)**
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
+- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
