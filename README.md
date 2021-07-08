@@ -8,6 +8,12 @@
 ### DP
 #### Tutorial
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org)
+### Graph
+#### What is a Graph?
+A graph is a nonlinear data structure that contains nodes and edges. A node or vertex is just a single unique value while an edge represents a connection or relationship between two of these nodes.
+#### References
+- [Graph Search Algorithms in 100 Seconds - And Beyond with JS](https://www.youtube.com/watch?v=cWNEl4HE2OE&ab_channel=Fireship)
+- [D3 Graph Theory](https://d3gt.com/index.html)
 ### Reb-Black tree
 <details>
 <summary>the basic introduction</summary>
