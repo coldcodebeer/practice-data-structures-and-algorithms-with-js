@@ -61,6 +61,7 @@
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+- [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 - **[322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)**
