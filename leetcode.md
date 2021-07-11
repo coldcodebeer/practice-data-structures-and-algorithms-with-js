@@ -73,6 +73,10 @@
 - [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 ---
+#### Tree
+- [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- **[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)**
+---
 #### Sliding Window
 - [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/)
@@ -82,8 +86,6 @@
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 - **[15. 三数之和](https://leetcode-cn.com/problems/3sum/)**
 - [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
-- [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - **[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)**
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
