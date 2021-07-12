@@ -73,9 +73,10 @@
 #### Binary Search
 - [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
----
+
 #### 双指针
-- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+
 ---
 #### Sliding Window
 - [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
@@ -89,3 +90,4 @@
 - **[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)**
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
