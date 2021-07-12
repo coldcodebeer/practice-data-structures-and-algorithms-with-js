@@ -14,7 +14,10 @@
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+---
+### hashTable
 - [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 ---
 #### Tree
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -84,7 +87,6 @@
 - [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 - [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 ---
-- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 - **[15. 三数之和](https://leetcode-cn.com/problems/3sum/)**
 - [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
 - **[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)**
