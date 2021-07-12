@@ -18,6 +18,7 @@
 ### hashTable
 - [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+- [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 ---
 #### Tree
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -59,8 +60,6 @@
 - [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
 ---
 #### DP
-- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
-  - [Max Contiguous Subarray Sum - Cubic Time To Kadane's Algorithm ("Maximum Subarray" on LeetCode)](https://www.youtube.com/watch?v=2MmGzdiKR9Y&ab_channel=BackToBackSWE)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
@@ -68,8 +67,8 @@
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 - **[322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)**
-  - [The Change Making Problem - Fewest Coins To Make Change Dynamic Programming](https://www.youtube.com/watch?v=jgiZlGzXMBw&ab_channel=BackToBackSWE)
 - [416. 分割等和子集
 ](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 ---
@@ -93,3 +92,4 @@
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 - [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- [66. 加一](https://leetcode-cn.com/problems/plus-one/)
