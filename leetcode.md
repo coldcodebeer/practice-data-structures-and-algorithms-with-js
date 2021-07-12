@@ -1,6 +1,7 @@
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
   - [递归反转链表的一部分](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/di-gui-fan-zhuan-lian-biao-de-yi-bu-fen)
+- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 - [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
   - [如何k个一组反转链表](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/k-ge-yi-zu-fan-zhuan-lian-biao)
@@ -15,14 +16,13 @@
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 - [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 ---
-#### 使用递归解决二叉树问题
+#### Tree
+- [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- **[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)**
 - [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 - [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
-##### 引用
-- [手把手带你刷二叉树（第一期）](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/er-cha-shu-xi-lie-1)
----
 #### 二叉树遍历
 - [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
@@ -30,6 +30,7 @@
 - [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)
  - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 ##### 引用
+- [手把手带你刷二叉树（第一期）](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/er-cha-shu-xi-lie-1)
 - [手把手带你刷二叉树（第二期）](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/er-cha-shu-xi-lie-2)
 - [东哥手把手带你刷二叉树（第三期）](https://www.cnblogs.com/labuladong/p/13975082.html)
 ---
@@ -73,9 +74,8 @@
 - [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 ---
-#### Tree
-- [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- **[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)**
+#### 双指针
+- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 ---
 #### Sliding Window
 - [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
