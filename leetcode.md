@@ -1,16 +1,16 @@
+#### LinkedList
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
   - [递归反转链表的一部分](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/di-gui-fan-zhuan-lian-biao-de-yi-bu-fen)
-- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- **[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)**
 - [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 - [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
   - [如何k个一组反转链表](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/k-ge-yi-zu-fan-zhuan-lian-biao)
 - [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
   - [如何判断回文链表](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/pan-duan-hui-wen-lian-biao)
+- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
-- [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 ---
 ### hashTable
@@ -30,9 +30,11 @@
 - [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)
 
 ---
-### Stack
+#### Stack & Queue
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
 - [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+- [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 ---
 #### **Binary Tree**
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -77,6 +79,7 @@
 - [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)
 - [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
 - [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
+- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)
 - [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
 ---
@@ -84,6 +87,8 @@
 - [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 - [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
 - **[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)**
+- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+- [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)
 ---
 #### **DP**
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
@@ -96,6 +101,7 @@
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 - [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+- [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 ---
 #### Binary Search
 - [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
@@ -110,12 +116,14 @@
 - [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)
 - [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 - [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
+- [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
 
 ---
 - [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 - [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 - [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+- [941. 有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/)
 ---
 
 #### Sliding Window
@@ -137,15 +145,24 @@
 - [482. 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/)
 - [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
 - [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)
+- [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+- [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
+- [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
+- [948. 令牌放置](https://leetcode-cn.com/problems/bag-of-tokens/)
 
 ---
+
+#### greedy
+- [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
+- [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 
 #### Heap(PriorityQueue)
 - [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 - [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 - [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
-- [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) `hard`
+- [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+- [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 ---
 #### Bit Manipulation
 - [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)

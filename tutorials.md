@@ -48,9 +48,9 @@
 - leetcode 419
 - leetcode 832
 - leetcode 215
-- leetcode 904 ??
+- leetcode 904 ?
 - leetcode 733
-- leetcode 621 ??
+- leetcode 621 ?
 - leetcode 819
 - **leetcode 91**
 - **leetcode 102**
@@ -79,3 +79,28 @@
 - leetcode 383
 - leetcode 680
 - leetcode 763
+- leetcode 14
+- **leetcode 78** ?
+- leetcode 416 ?
+- **leetcode 21**
+- **leetcode 322**
+- **leetcode 199**
+- leetcode 293 `plus`
+- leetcode 941
+- leetcode 1119 `plus`
+- leetcode 64 ?
+- leetcode 257
+- leetcode 345
+- leetcode 187
+- leetcode 1110
+- leetcode 160
+- leetcode 938
+- leetcode 230
+- leetcode 1046
+- leetcode 1167 `plus`
+- leetcode 415
+- leetcode 948
+- leetcode 98
+- leetcode 1221
+- leetcode 917
+- leetcode 455
