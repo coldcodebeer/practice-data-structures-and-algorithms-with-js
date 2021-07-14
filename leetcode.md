@@ -35,6 +35,7 @@
 - [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 - [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+- [735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)
 ---
 #### **Binary Tree**
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -49,6 +50,7 @@
 - [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 - **[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)**
 - [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
+- [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 - [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
@@ -149,12 +151,14 @@
 - [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
 - [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
 - [948. 令牌放置](https://leetcode-cn.com/problems/bag-of-tokens/)
+- [1007. 行相等的最少多米诺旋转](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row/)
 
 ---
 
 #### greedy
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 - [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+- [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 
 #### Heap(PriorityQueue)
 - [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
