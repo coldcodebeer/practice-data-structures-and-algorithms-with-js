@@ -8,6 +8,15 @@
 ### DP
 #### Tutorial
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org)
+  - Memoization
+    1. Make it work
+      - visualize the problem as a tee
+      - implement the tree using recursion
+      - test it
+    2. Make it efficient
+      - add a memo object
+      - add a base case to return
+      - store return values into the memo
 ### Graph
 #### What is a Graph?
 A graph is a nonlinear data structure that contains nodes and edges. A node or vertex is just a single unique value while an edge represents a connection or relationship between two of these nodes.
