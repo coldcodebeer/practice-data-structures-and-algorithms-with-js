@@ -22,22 +22,22 @@ const defaultCompareFunction = (a, b) => {
 }
 
 class MinHeap {
-  heap = []
-
+  #heap = []
+  #compare
   constructor(compareFn = defaultCompareFunction) {
-    this.compare = compareFn
+    this.#compare = compareFn
   }
 
   get size() {
-    return this.heap.length
+    return this.#heap.length
   }
 
   get isEmpty() {
-    return this.heap.length === 0
+    return this.#heap.length === 0
   }
 
   peek() {
-    return this.isEmpty ? null : this.heap[0]
+    return this.isEmpty ? null : this.#heap[0]
   }
 
   print() {
@@ -47,7 +47,7 @@ class MinHeap {
   // o(longN)
   insert(value) {
     if (value !== undefined && value !== null) {
-      this.heap.push(value)
+      this.#heap.push(value)
       this.siftUp(this.size - 1)
       return true
     }
@@ -58,9 +58,9 @@ class MinHeap {
   extract() {
     if (this.isEmpty) return null
 
-    if (this.size === 1) return this.heap.shift()
+    if (this.size === 1) return this.#heap.shift()
 
-    const removedNode = this.heap.shift()
+    const removedNode = this.#heap.shift()
     this.siftDown(0)
     return removedNode
   }
@@ -72,14 +72,14 @@ class MinHeap {
 
     if (
       leftIndex < this.size &&
-      this.compare(this.heap[currentIndex], this.heap[leftIndex]) === comparison.BIGGER
+      this.#compare(this.#heap[currentIndex], this.#heap[leftIndex]) === comparison.BIGGER
     ) {
       currentIndex = leftIndex
     }
 
     if (
       rightIndex < this.size &&
-      this.compare(this.heap[currentIndex], this.heap[rightIndex]) === comparison.BIGGER
+      this.#compare(this.#heap[currentIndex], this.#heap[rightIndex]) === comparison.BIGGER
     ) {
       currentIndex = rightIndex
     }
@@ -95,7 +95,7 @@ class MinHeap {
 
     while (
       index > 0 &&
-      this.compare(this.heap[parentIndex], this.heap[index] === comparison.BIGGER)
+      this.#compare(this.#heap[parentIndex], this.#heap[index] === comparison.BIGGER)
     ) {
       this.swap(parentIndex, index)
       index = parentIndex
@@ -107,7 +107,7 @@ class MinHeap {
     // const temp = this.#heap[i]
     // this.#heap[i] = this.#heap[j]
     // this.#heap[j] = temp
-    [this.heap[i], this.heap[j]] = [this.heap[j], this.heap[i]]
+    [this.#heap[i], this.#heap[j]] = [this.#heap[j], this.#heap[i]]
   }
 
   getLeftIndex(index) {
@@ -126,7 +126,7 @@ class MinHeap {
 
   printNode(i = 0, spaceCount = 0, label = '*') {
     if (i >= this.size) return
-    console.log(`${' '.repeat(spaceCount)}${label}: ${this.heap[i]} [${i}]`)
+    console.log(`${' '.repeat(spaceCount)}${label}: ${this.#heap[i]} [${i}]`)
     this.printNode(this.getLeftIndex(i), spaceCount + 3, 'L')
     this.printNode(this.getRightIndex(i), spaceCount + 3, 'R')
   }
